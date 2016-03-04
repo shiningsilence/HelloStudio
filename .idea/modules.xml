@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloStudio.iml" filepath="$PROJECT_DIR$/HelloStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabfragmentviewpager/Tabfragmentviewpager.iml" filepath="$PROJECT_DIR$/Tabfragmentviewpager/Tabfragmentviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demolist/demolist.iml" filepath="$PROJECT_DIR$/demolist/demolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mddemo/mddemo.iml" filepath="$PROJECT_DIR$/mddemo/mddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myprogressbar/myprogressbar.iml" filepath="$PROJECT_DIR$/myprogressbar/myprogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshimg/myshimg.iml" filepath="$PROJECT_DIR$/myshimg/myshimg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyleviewDemo/recyleviewDemo.iml" filepath="$PROJECT_DIR$/recyleviewDemo/recyleviewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabdemo/tabdemo.iml" filepath="$PROJECT_DIR$/tabdemo/tabdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topbar/topbar.iml" filepath="$PROJECT_DIR$/topbar/topbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xinyuanshare/xinyuanshare.iml" filepath="$PROJECT_DIR$/xinyuanshare/xinyuanshare.iml" />
+    </modules>
+  </component>
+</project>
